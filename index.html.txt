@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Individuality - I'm Her. I'm Him.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Individuality</h1>
+        <p>Faith in God, Strength in Individuality</p>
+    </header>
+
+    <section class="products">
+        <h2>Shop the Look</h2>
+        <div class="product-grid">
+            <div class="product">
+                <img src="images/shirt.jpg" alt="T-Shirt">
+                <p>Signature T-Shirt</p>
+            </div>
+            <div class="product">
+                <img src="images/beanie.jpg" alt="Beanie">
+                <p>Confidence Beanie</p>
+            </div>
+            <div class="product">
+                <img src="images/sweatsuit.jpg" alt="Sweatsuit">
+                <p>Power Sweatsuit</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Contact: hello@shopindividuality.com</p>
+        <p>© 2025 Individuality. All rights reserved.</p>
+    </footer>
+</body>
+</html>
